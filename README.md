@@ -3,4 +3,3 @@
 
 # 💻 Bot Nasıl Başlatılır?
 🎁 **CMD Veya Terminal'e "node ." Yazınız!**
-✨ **Başlatmayı Yapmadan önce "npm install" Yazarak Modülleri İndirebilirsiniz.**
